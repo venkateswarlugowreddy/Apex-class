@@ -1,2 +1,0 @@
-# Apex-class
-hi
